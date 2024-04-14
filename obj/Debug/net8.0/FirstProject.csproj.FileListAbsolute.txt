@@ -1,0 +1,15 @@
+/home/hector/Documentos/cursos/microsoft/Net&C#/FirstProject/bin/Debug/net8.0/FirstProject
+/home/hector/Documentos/cursos/microsoft/Net&C#/FirstProject/bin/Debug/net8.0/FirstProject.deps.json
+/home/hector/Documentos/cursos/microsoft/Net&C#/FirstProject/bin/Debug/net8.0/FirstProject.runtimeconfig.json
+/home/hector/Documentos/cursos/microsoft/Net&C#/FirstProject/bin/Debug/net8.0/FirstProject.dll
+/home/hector/Documentos/cursos/microsoft/Net&C#/FirstProject/bin/Debug/net8.0/FirstProject.pdb
+/home/hector/Documentos/cursos/microsoft/Net&C#/FirstProject/obj/Debug/net8.0/FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/hector/Documentos/cursos/microsoft/Net&C#/FirstProject/obj/Debug/net8.0/FirstProject.AssemblyInfoInputs.cache
+/home/hector/Documentos/cursos/microsoft/Net&C#/FirstProject/obj/Debug/net8.0/FirstProject.AssemblyInfo.cs
+/home/hector/Documentos/cursos/microsoft/Net&C#/FirstProject/obj/Debug/net8.0/FirstProject.csproj.CoreCompileInputs.cache
+/home/hector/Documentos/cursos/microsoft/Net&C#/FirstProject/obj/Debug/net8.0/FirstProject.sourcelink.json
+/home/hector/Documentos/cursos/microsoft/Net&C#/FirstProject/obj/Debug/net8.0/FirstProject.dll
+/home/hector/Documentos/cursos/microsoft/Net&C#/FirstProject/obj/Debug/net8.0/refint/FirstProject.dll
+/home/hector/Documentos/cursos/microsoft/Net&C#/FirstProject/obj/Debug/net8.0/FirstProject.pdb
+/home/hector/Documentos/cursos/microsoft/Net&C#/FirstProject/obj/Debug/net8.0/FirstProject.genruntimeconfig.cache
+/home/hector/Documentos/cursos/microsoft/Net&C#/FirstProject/obj/Debug/net8.0/ref/FirstProject.dll
